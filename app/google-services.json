@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364189962064",
+    "project_id": "nmims-leave-application",
+    "storage_bucket": "nmims-leave-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364189962064:android:bc02d7e40be94078c96655",
+        "android_client_info": {
+          "package_name": "com.example.leave_application_nmims"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48nlgbOvubG8BKvakdZfeSWQEW5_T9wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
